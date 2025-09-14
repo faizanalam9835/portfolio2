@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
-import resumePDF from '/Faizan_Alam.pdf';
+import resumePDF from '/Faizan_Alam_Resume.pdf';
 
 const Header = ({ darkMode, toggleDarkMode, scrollToSection }) => {
   const [menuOpen, setMenuOpen] = useState(false);
