@@ -21,13 +21,13 @@ const Home = ({ darkMode }) => {
             <div className="social-links">
               <span>Connect with me</span>
               <div className="social-icons">
-                <a href="https://github.com/noorjahan04" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/faizanalam9835" target="_blank" rel="noopener noreferrer">
                   <Github />
                 </a>
-                <a href="https://www.linkedin.com/in/noor-jahan-915987280/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/faizan-alam-091063334/" target="_blank" rel="noopener noreferrer">
                   <Linkedin />
                 </a>
-                <a href="mailto:noorifms@gmail.com">
+                <a href="mailto:faizansaikh786786f@gmail.com">
                   <Mail />
                 </a>
               </div>
