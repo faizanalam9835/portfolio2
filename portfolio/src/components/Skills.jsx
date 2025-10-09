@@ -10,7 +10,7 @@ const Skills = ({ darkMode }) => {
     { name: 'Redux', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' },
     { name: 'HTML5', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' },
     { name: 'CSS', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' },
-    { name: 'Tailwind CSS', image: 'https://i.pinimg.com/736x/a4/b7/4a/a4b74a0363d04c1f1fe8c951592a3a8a.jpg' },
+    { name: 'Tailwind CSS', image: 'https://i.pinimg.com/736x/8b/46/55/8b4655c1e5c773e43375b4b6260babd9.jpg' },
     { name: 'Babel', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg' },
     { name: 'npm', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' },
     { name: 'vite', image: 'https://vitejs.dev/logo.svg' }
