@@ -29,7 +29,7 @@ const Projects = ({ darkMode }) => {
     {
       title: 'TaskTracker Collabration',
       description:
-        'TaskTracker is a full-stack MERN web application with JWT authentication, offering secure user login, task creation, updates, and deletion. It ensures efficient task management, real-time data handling .',
+        'TaskTracker is a full-stack MERN web application with JWT authentication, offering secure user login, task creation, updates, and deletion. It ensures efficient task management, real-time data handling, and a responsive interface to boost productivity .',
       image: project3,
       technologies: [
         'React.js',
