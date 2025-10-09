@@ -22,7 +22,7 @@ const Projects = ({ darkMode }) => {
       description:
         'A React-based e-commerce website using Context API for state management, Firebase Authentication for secure login, and Firebase Database for real-time product, user, and order data, delivering a smooth online shopping experience.',
       image: project2,
-      technologies: ['React', 'Inline css', 'Firebase', 'Context API'],
+      technologies: ['React', 'Inline css', 'Firebase', 'Context API' , "Firebase-Auth"],
       github: 'https://github.com/faizanalam9835/E-Commerce-July',
       live: 'https://ecommerce-july.netlify.app/',
     },
